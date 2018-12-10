@@ -2,7 +2,8 @@
 --------------------------
 [Demo Video](https://www.youtube.com/watch?v=bi6BYpFSOGs&t=25s)
 
-![quickView](https://github.com/NormXU/AR_Drum/tree/master/Doc/demo.gif)
+![](https://github.com/NormXU/AR_Drum/raw/master/Doc/demo.gif)
+
 
 # Instructions
 
